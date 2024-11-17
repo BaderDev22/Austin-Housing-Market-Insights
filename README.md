@@ -25,22 +25,26 @@ This repository contains a comprehensive Power BI report analyzing the real esta
   - Total properties available.  
   - Average house prices and sizes.  
 - **Map visualization** displaying property distribution by year built, highlighting market trends.  
+![Summary Page: Overview of property data with a map visual showing property distribution by year built.](screenshoot/summary.png)
 
 ### 2. Location Page  
 - Interactive map showcasing property locations with filters for price ranges.  
 - Insights on average house prices based on latitude and elevation, illustrating the impact of location on pricing.  
+![Location Page: Interactive map visual with filters for price ranges and insights based on geographic attributes.](screenshoot/location.png)
 
 ### 3. Schools Page  
 - Analysis of nearby school quality:  
   - Average school ratings.  
   - Student-to-teacher ratios.  
 - **Interactive map** showing school locations and ratings to understand education quality's effect on property pricing.  
+![Schools Page: Interactive map showing nearby schools, ratings, and student-to-teacher ratios.](screenshoot/schools.png)
 
 ### 4. Features Page  
 - A matrix table connecting property prices with features such as:  
   - Lower-priced homes: "new kitchen," "spacious rooms."  
   - Higher-priced homes: "swimming pool," "lake views."  
 - Helps assess the impact of features on pricing for better investment decisions.  
+![Features Page: Matrix table highlighting the relationship between property prices and various features.](screenshoot/featuures.png)
 
 ---
 
@@ -58,6 +62,3 @@ This repository contains a comprehensive Power BI report analyzing the real esta
 This report serves as a tool to analyze real estate market dynamics, offering actionable insights for decision-making.
 
 Feel free to explore the repository and use the findings to support your real estate investment strategies. Contributions and feedback are welcome! 😊
-![alt text](summary.png)
-![alt text](schools.png)
-![alt text](featuures.png)
